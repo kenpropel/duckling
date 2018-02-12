@@ -70,4 +70,7 @@ allExamples = concat
   , examples (UrlData "aMaZon.co.uk/?page=home" "amazon.co.uk")
              [ "aMaZon.co.uk/?page=home"
              ]
+  , examples (UrlData "https://en.wikipedia.org/wiki/Uniform_Resource_Identifier#Syntax" "en.wikipedia.org")
+             [ "https://en.wikipedia.org/wiki/Uniform_Resource_Identifier#Syntax"
+             ]
   ]
